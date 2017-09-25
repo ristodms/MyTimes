@@ -206,6 +206,7 @@ footer {
 footer .title {
   display: inline-flex;
   color: white;
+  font-weight: bold;
   padding-right: 25px;
   border-right: 2px solid white;
 }
