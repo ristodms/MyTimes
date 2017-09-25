@@ -212,6 +212,8 @@ footer .title {
 }
 
 footer nav {
+  font-family: Verdana;
+  font-size: 14px;
   padding: 10px;
   text-decoration: none;
 }
